@@ -1,4 +1,4 @@
-# Portal do Estágio - Neuropsicopedagogia
+# Portal do Estágio 
 
 ![Portal do Estágio](EstagioPortall/public/logoo.png)
 
@@ -182,9 +182,9 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👥 Equipe
 
-- **Desenvolvimento**: [Seu Nome]
+- **Desenvolvimento**: [Kelly teixeira]
 - **Design**: [Nome do Designer]
-- **Gestão**: [Nome do Gestor]
+- **Gestão**: [Thiago Reis]
 
 ## 📞 Suporte
 
@@ -199,5 +199,5 @@ Para suporte, envie um email para suporte@portaldoestagio.com.br ou abra uma iss
 ---
 
 <p align="center">
-  Feito com ❤️ para a comunidade de Neuropsicopedagogia
+  Feito com ❤️ para a comunidade Neurosaber - Portal do Estagio.
 </p>
